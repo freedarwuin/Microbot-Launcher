@@ -1,49 +1,49 @@
 # Microbot-Launcher
-Microbot Launcher for The Microbot Client
+Lanzador de Microbot para el cliente de Microbot
 
 ![image](https://github.com/user-attachments/assets/2c2daaeb-9c48-4e2d-8827-b38d4935d485)
 
 
-## Prerequisites
-Before you begin, ensure you have the following installed on your machine:
-- [Node.js](https://nodejs.org/) (preferably the latest version)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
+## Prerrequisitos
+Antes de comenzar, asegúrese de tener lo siguiente instalado en su máquina:
+- [Node.js](https://nodejs.org/) (Preferiblemente la última versión)
+- [npm](https://www.npmjs.com/) (viene con Node.js)
 - [Electron](https://www.electronjs.org/)
 
-You can install Electron globally with the following command:
+Puede instalar Electron globalmente con el siguiente comando:
 
 ```bash
 npm install -g electron
 ```
 
-## Installation
+## Instalación
 
-1) clone the repository
+1) clonar el repositorio
 
 ```bash
 git clone https://github.com/your-repo/microbot-launcher.git
 ```
 
-2) navigate to the project directory
+2) navegar al directorio del proyecto
 
 ```bash
 cd microbot-launcher
 ```
 
-3) install the dependencies
+3) instalar las dependencias
 
 ```bash
 npm install
 ```
 
-## Running the project
+## Ejecución del proyecto
 
 ```bash
 npm run dev
 ```
 
-## Package for Windows
-For 64-bit
+## Paquete para Windows
+Para 64 bits
 ```bash
 npm run build:x64
 ```
@@ -52,12 +52,12 @@ For 32-bit
 npm run build:ia32
 ```
 
-## Steps to Contribute:
-1. Fork the repository
-2.  Create a new branch (git checkout -b feature-branch)
-3. Commit your changes (git commit -m 'Add some feature')
-4. Push to the branch (git push origin feature-branch)
-5. Create a new Pull Request
+## Pasos para contribuir:
+1. Bifurcar el repositorio
+2. Crear una nueva rama (git checkout -b feature-branch)
+3. Confirme sus cambios (git commit -m 'Add some feature')
+4. Empujar hacia la rama (git push origin feature-branch)
+5. Crear una nueva solicitud de extracción
 
 ## Youtube
 
@@ -68,15 +68,15 @@ npm run build:ia32
 [![Discord Banner 1](https://discord.com/api/guilds/1087718903985221642/widget.png?style=banner1)](https://discord.gg/zaGrfqFEWE)
 
  
-If you have any questions, please join our [Discord](https://discord.gg/zaGrfqFEWE) server.
+Si tienes alguna pregunta, únete a nuestro [Discord](https://discord.gg/zaGrfqFEWE) server.
 
 
-## ☕ Buy Me a Coffee
+## ☕ Invítame a un café
 
-If you enjoy my open source work and would like to support me, consider buying me a coffee! Your support helps me stay caffeinated and motivated to keep improving and creating awesome projects.
+Si te gusta mi trabajo de código abierto y te gustaría apoyarme, ¡considera invitarme a un café! Tu apoyo me ayuda a mantenerme con energía y motivado para seguir mejorando y creando proyectos increíbles.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow)](https://www.paypal.com/paypalme/MicrobotBE?country.x=BE)
+[![Invítame a un café](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow)](https://www.paypal.com/paypalme/MicrobotBE?country.x=BE)
 
-Thank you for your support! 😊
+¡Gracias por su apoyo! 😊
 
 
