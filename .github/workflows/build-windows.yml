@@ -132,4 +132,4 @@ jobs:
             ./assets/libs \
             ./assets/index.html \
             ./assets/renderer.js \
-            root@138.201.81.246:/var/www/files/assets/microbot-launcher/ 
+            root@138.201.81.246:/var/www/files/assets/microbot-launcher/
