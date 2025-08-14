@@ -1,6 +1,6 @@
 {
   "name": "microbot-launcher",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Launcher for the microbot client",
   "main": "main.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "start": "electron-forge start",
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "electron-builder --publish always",
-    "linux": "electron-builder --linux"
+    "linux": "electron-builder --linux",
+    "build:x64": "electron-builder --win --x64"
   },
   "author": "Mocrosoft",
   "license": "ISC",
@@ -65,7 +66,7 @@
       "url": "https://files.microbot.cloud/releases/microbot-launcher/"
     },
     "extraMetadata": {
-      "version": "2.0.0"
+      "version": "2.0.1"
     }
   }
 }
