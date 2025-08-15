@@ -171,7 +171,7 @@ window.addEventListener('load', async () => {
         button.addEventListener('click', startLoading);
     });
 
-    document.getElementById('website').src = "https://www.themicrobot.com?source=launcher"
+    document.getElementById('website').src = "https://freedarwuin.github.io/Microbot-Landing-Page?source=launcher"
 });
 
 
